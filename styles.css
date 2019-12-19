@@ -16,6 +16,14 @@ aside, article {
   font-family: 'Inconsolata', monospace;
 }
 
+aside h1 {
+  margin:0;
+  font-size:1em;
+  font-weight:normal;
+  font-style:italic;
+  font-variant:small-caps;
+}
+
 /*
 FONTS:
 font-family: 'Inconsolata', monospace;

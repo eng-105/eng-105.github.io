@@ -22,10 +22,21 @@ aside h1 {
   font-weight:normal;
   font-style:italic;
   font-variant:small-caps;
+  text-align:center;
 }
 
 a {
   color:ForestGreen;
+}
+
+@media only screen and (min-width: 700px) {
+  aside {
+    position:absolute;
+    right:10vw;
+    min-width:30vw;
+    border:1px solid;
+    border-radius:20%;
+  }
 }
 
 /*

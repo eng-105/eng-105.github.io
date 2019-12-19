@@ -1,5 +1,5 @@
 body {
-  background-color:SeaShell;
+  background-color:MintCream;
 }
 
 header {
@@ -13,9 +13,28 @@ header h1 {
   margin:0;
   font-family:'Ma Shan Zheng', cursive;
   font-size:5vh;
-  /*THE OTHER GOOGLE FONT font-family: 'Inconsolata', monospace;*/
 }
 
 ol {
   font-family: 'Inconsolata', monospace;
 }
+
+/*
+FONTS:
+font-family: 'Inconsolata', monospace;
+font-family:'Ma Shan Zheng', cursive;
+
+CSS DEFAULT COLORS:
+SeaShell
+PaleTurquoise
+Teal
+Salmon
+RosyBrown
+PowderBlue
+MistyRose
+MintCream
+LightCyan
+LemonChiffon
+LavenderBlush
+ForestGreen
+*/

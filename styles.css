@@ -27,10 +27,6 @@ aside, article {
   font-size:2vh;
 }
 
-article {
-  display:none;
-}
-
 h1 {
   margin:0 0 1vh 0;
   font-size:4vh;
@@ -76,7 +72,6 @@ footer {
   }
   
   article {
-    display:block;
     border:1px solid;
     padding:1vw;
   }

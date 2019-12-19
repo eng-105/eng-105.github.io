@@ -12,6 +12,10 @@ aside, article {
   font-family: 'Inconsolata', monospace;
 }
 
+article {
+  display:none;
+}
+
 aside h1 {
   margin:0;
   font-size:4vh;
@@ -41,6 +45,7 @@ a {
   }
   
   article {
+    display:block;
     border:1px solid;
     padding:1vw;
   }

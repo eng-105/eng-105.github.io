@@ -14,11 +14,14 @@ aside, article {
 
 aside h1 {
   margin:0;
-  font-size:3vh;
-  font-weight:normal;
+  font-size:4vh;
   font-style:italic;
   font-variant:small-caps;
   text-align:center;
+}
+
+ol {
+  margin:0;
 }
 
 a {

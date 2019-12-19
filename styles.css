@@ -36,6 +36,13 @@ h1 {
   text-align:center;
 }
 
+h2 {
+  margin:0 0 .5vh 0;
+  font-size:2vh;
+  font-family:'Inconsolata', monospace;
+  font-variant:small-caps;
+}
+
 p {
   margin:0;
 }

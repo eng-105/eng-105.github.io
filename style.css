@@ -1,0 +1,13 @@
+header {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+header h1 {
+  font-weight:normal;
+  margin:0;
+  font-family:'Ma Shan Zheng', cursive;
+  font-size:5vh;
+  /*THE OTHER GOOGLE FONT font-family: 'Inconsolata', monospace;*/
+}

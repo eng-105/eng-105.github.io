@@ -52,14 +52,14 @@ p {
 }
 
 ul {
-  margin:1vw;
+  margin-left:1vw;
   padding:0;
   list-style-position:outside;
 }
 
 ul li {
-  padding-left:1vw;
-  text-indent:-.5vw;
+  padding-left:2vw;
+  text-indent:-1vw;
 }
 
 a {

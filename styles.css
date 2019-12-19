@@ -24,6 +24,10 @@ aside h1 {
   font-variant:small-caps;
 }
 
+a {
+  color:ForestGreen;
+}
+
 /*
 FONTS:
 font-family: 'Inconsolata', monospace;

@@ -16,10 +16,10 @@ article {
   display:none;
 }
 
-aside h1 {
+h1 {
   margin:0;
-  font-size:4vh;
-  font-style:italic;
+  font-size:3vh;
+  font-family:'Ma Shan Zheng', cursive;
   font-variant:small-caps;
   text-align:center;
 }

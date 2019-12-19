@@ -39,6 +39,8 @@ h1 {
 
 h2 {
   margin:0 0 .5vh 0;
+  padding-left:4vw;
+  text-indent:-4vw;
   font-size:3vh;
   font-family:'Inconsolata', monospace;
   font-variant:small-caps;
@@ -50,8 +52,8 @@ p {
 }
 
 ul {
-  margin:0;
-  padding:1vw;
+  margin:1vw;
+  padding:0;
   list-style-position:outside;
 }
 

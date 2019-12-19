@@ -35,11 +35,11 @@ ul {
 }
 
 ul li {
-  padding:.5vw;
+  padding:.25vw;
 }
 
 a {
-  color:ForestGreen;
+  color:Teal;
 }
 
 @media only screen and (min-width: 700px) {
@@ -52,6 +52,7 @@ a {
   
   aside {
     border:1px solid;
+    padding:1vw;    
   }
   
   article {

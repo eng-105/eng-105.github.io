@@ -1,3 +1,7 @@
+body {
+  background-color:SeaShell;
+}
+
 header {
   display:flex;
   justify-content:center;

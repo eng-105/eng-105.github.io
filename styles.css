@@ -1,5 +1,5 @@
 body {
-  background-color:MistyRose;
+  background-color:LavenderBlush;
 }
 
 header {
@@ -35,7 +35,6 @@ a {
     right:10vw;
     min-width:30vw;
     border:1px solid;
-    border-radius:20%;
   }
 }
 

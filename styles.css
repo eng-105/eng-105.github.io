@@ -52,6 +52,10 @@ a {
   color:ForestGreen;
 }
 
+footer {
+  display:none;
+}
+
 @media only screen and (min-width: 700px) {
   body {
     background-color:white;
@@ -73,6 +77,19 @@ a {
     display:block;
     border:1px solid;
     padding:1vw;
+  }
+  
+  footer {
+    display:flex;
+    grid-column:1 / span 2;
+  }
+  
+  footer img {
+    width:16vw;
+    height:16vw;
+    object-fit:cover;
+    margin:1vw;
+    border-radius:20%;
   }
 }
 

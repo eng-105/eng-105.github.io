@@ -49,12 +49,12 @@ p {
 
 ul {
   margin:0;
-  padding:0;
-  list-style-position:inside;
+  padding:1vw;
+  list-style-position:outside;
 }
 
 ul li {
-  padding:0;
+  padding:.5vw;
 }
 
 a {

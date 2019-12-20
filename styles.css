@@ -53,10 +53,7 @@ p {
 
 ul {
   list-style-position:inside;
-}
-
-ul li {
-  padding-left:1vw
+  padding-left:1vw;
 }
 
 a {

@@ -92,6 +92,10 @@ footer {
     padding:1vw;
   }
   
+  article.home {
+    display:block;
+  }
+  
   footer {
     display:flex;
     grid-column:1 / span 2;

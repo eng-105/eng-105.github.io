@@ -28,6 +28,10 @@ aside, article {
   font-size:2.5vh;
 }
 
+article.home {
+  display:none;
+}
+
 h1 {
   margin:0 0 1vh 0;
   font-size:5vh;
@@ -54,6 +58,11 @@ p {
 ul {
   list-style-position:inside;
   padding-left:0;
+}
+
+li {
+  padding:0 0 .5vh 4vw;
+  text-indent:-2vw;
 }
 
 a {

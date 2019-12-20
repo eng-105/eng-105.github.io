@@ -58,10 +58,11 @@ p {
 ul {
   list-style-position:inside;
   padding-left:0;
+  margin:0;
 }
 
 li {
-  padding:0 0 .5vh 4vw;
+  padding:0 0 .5vh 3vw;
   text-indent:-2vw;
 }
 

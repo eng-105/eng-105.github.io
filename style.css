@@ -26,6 +26,11 @@ header {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
+	text-shadow: .5vw .5vh .5vw aqua;
+}
+
+footer {
+	display: none;
 }
 
 h1 {
@@ -79,6 +84,17 @@ article,aside,footer {
 	
 	footer {
 		grid-column: 1 / span 2;
+		display:flex;
+		justify-content: center;
+		align-items: center;
+	}
+	
+	footer img {
+		width:15vw;
+		height:15vw;
+		object-fit: cover;
+		margin: 0 .5vw 0 .5vw;
+		border-radius: 20%;
 	}
 	
 	article {

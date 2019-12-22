@@ -67,7 +67,7 @@ li {
 }
 
 a {
-  color:ForestGreen;
+  color:PowderBlue;
 }
 
 footer {
@@ -83,12 +83,11 @@ footer {
   }
   
   aside {
-    border:1px solid;
     padding:1vw;    
   }
   
   article {
-    border:1px solid;
+    border-right:1px solid;
     padding:1vw;
   }
   

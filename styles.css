@@ -57,13 +57,13 @@ p {
 
 ul {
   list-style-position:inside;
-  padding-left:0;
+  padding-left:3vw;
+  text-indent:-3vw;
   margin:0;
 }
 
 li {
-  padding:0 0 .5vh 3vw;
-  text-indent:-2vw;
+  padding:0 0 .5vh 0;
 }
 
 a {

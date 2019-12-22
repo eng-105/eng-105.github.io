@@ -17,12 +17,28 @@ h2 {
 	margin:0;
 }
 
+h3 {
+	margin:0;
+	position:absolute;
+	animation-name: flip;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+}
+
 @keyframes hi {
 	0% {color:aqua;}
 	25% {color:pink;}
 	50% {color:coral;}
 	75% {color:antiquewhite;}
 	100% {olor:aqua;}
+}
+
+@keyframes flip {
+	0% {left:0;}
+	50% {left:75vw;}
+	75% {left:0;}
+	85% {left:80vw;}
+	100% {left:0;}
 }
 
 @media (min-width: 800px){

@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+::selection {
+	background-color: aqua;
+	color: black;
+}
+
+@keyframes bg {
+	0% {background-color: white;}
+	25% {background-color: mintcream;}
+	50% {background-color: lavenderblush;}
+	100% {background-color: white;}
+}
+
+body {
+	animation-name: bg;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+}
+
+header {
+	font-family: "Ma Shan Zheng", cursive;
+	font-size: 3em;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+h1 {
+	font-family: "Ma Shan Zheng", cursive;
+	font-size: 2em;
+	font-weight: normal;
+	font-variant: small-caps;
+	margin:0 0 1vh 0;
+}
+
+h2 {
+	font-family: "Inconsolata", monospace;
+	font-size: 2em;
+	font-weight: normal;
+	font-variant: small-caps;
+	font-style: italic;
+	margin:0 0 1vh 0;
+}
+
+h3 {
+	font-family: "Inconsolata", monospace;
+	font-size: 1.25em;
+	font-weight: normal;
+	font-style: italic;
+	margin:0 0 1vh 0;
+	text-align: center;
+	background-color: aqua;
+	border-radius:10%;
+}
+
+p,ul {
+	font-family: "Inconsolata", monospace;
+	margin:0 0 1vh 0;
+}
+
+article,aside,footer {
+	font-family: "Inconsolata", monospace;
+}
+
+@media (min-width: 800px){
+	body {
+		display:grid;
+		grid-template-columns: 50vw 25vw;
+		grid-gap: 1vw;
+		justify-content: center;
+	}
+	
+	header {
+		grid-column: 1 / span 2;
+	}
+	
+	footer {
+		grid-column: 1 / span 2;
+	}
+	
+	article {
+		border-right:1px solid;
+		padding:1vw;
+	}
+}

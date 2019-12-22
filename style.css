@@ -70,6 +70,15 @@ article,aside,footer {
 	font-family: "Inconsolata", monospace;
 }
 
+a {
+	color:aqua;
+	text-decoration: none;
+}
+
+aside a {
+	display:block;
+}
+
 @media (min-width: 800px){
 	body {
 		display:grid;

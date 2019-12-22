@@ -25,6 +25,12 @@ h3 {
 	animation-iteration-count: infinite;
 }
 
+h4 {
+	color:aqua;
+	font-size: 10vh;
+	margin:0;
+}
+
 @keyframes hi {
 	0% {color:aqua;}
 	25% {color:pink;}
@@ -35,11 +41,20 @@ h3 {
 
 @keyframes flip {
 	0% {left:0;}
-	50% {left:75vw;}
+	50% {left:75%;}
 	75% {left:0;}
-	85% {left:80vw;}
+	85% {left:80%;}
 	100% {left:0;}
 }
 
 @media (min-width: 800px){
+	body {
+		display:grid;
+		grid-template-columns: 40vw 40vw;
+		justify-content: center;
+	}
+	
+	img {
+		width:40vw;
+	}
 }

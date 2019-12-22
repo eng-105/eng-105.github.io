@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+img {
+	width:95vw;
+}
+
+h1 {
+	margin:0;
+	text-align:center;
+	font-variant: small-caps;
+	animation-name: hi;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+}
+
+h2 {
+	margin:0;
+}
+
+@keyframes hi {
+	0% {color:aqua;}
+	25% {color:pink;}
+	50% {color:coral;}
+	75% {color:antiquewhite;}
+	100% {olor:aqua;}
+}
+
+@media (min-width: 800px){
+}

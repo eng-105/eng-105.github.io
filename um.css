@@ -69,12 +69,13 @@ aside {
 		justify-content: center;
 		grid-gap: 5vw;
 		position:absolute;
-		top:5vh;
+		top:7vh;
 	}
 	
 	header {
 		bottom: auto;
 		top:0;
+		font-size: 6vh;
 		text-shadow: 1px 1px aqua,
 			2px 2px 1px green,
 			3px 3px 2px pink;

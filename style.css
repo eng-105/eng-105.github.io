@@ -26,7 +26,9 @@ header {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	text-shadow: .5vw .5vh .5vw aqua;
+	animation-name: tible;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
 }
 
 footer {
@@ -77,6 +79,14 @@ a {
 
 aside a {
 	display:block;
+}
+
+@keyframes tible {
+	0% {text-shadow: 0 0 0 black;}
+	25% {text-shadow: 1vw 1vh 0 black;}
+	50% {text-shadow: 1vw 1vh 2vw aqua;}
+	75% {text-shadow: 1vw 1vh 1vw black;}
+	100% {text-shadow: 0 0 0 black;}
 }
 
 @media (min-width: 800px){

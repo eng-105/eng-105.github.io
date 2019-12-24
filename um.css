@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+section {
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+article {
+	border:1px solid lightgrey;
+	border-radius: 10px;
+	overflow: hidden;
+	padding: 0;
+	margin: 1vw;
+	max-height: 24vh;
+}
+
+article p {
+	margin:0 0 1vh 0;
+	border-bottom: 1px solid lightgrey;
+	font-size: 3vh;
+	text-align: center;
+}
+
+article img {
+	width:20vh;
+	height:20vh;
+	object-fit: cover;
+	margin:0;
+	padding: 0;
+}
+
+@media (min-width: 800px){
+}

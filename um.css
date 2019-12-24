@@ -40,7 +40,7 @@ article {
 }
 
 article p {
-	margin:0 0 1vh 0;
+	margin:0 0 0 0;
 	border-bottom: 1px solid lightgrey;
 	font-size: 3vh;
 	text-align: center;
@@ -76,9 +76,9 @@ aside {
 		bottom: auto;
 		top:0;
 		font-size: 6vh;
-		text-shadow: 1px 1px aqua,
-			2px 2px 1px green,
-			3px 3px 2px pink;
+		text-shadow: 1px 1px pink,
+			2px 2px 1px lightpink,
+			3px 3px 2px grey;
 	}
 	
 	aside {

@@ -13,6 +13,11 @@ font-family: 'Open Sans', sans-serif;
 	display:inline;
 }
 
+a {
+	color: black;
+	text-decoration: none;
+}
+
 header {
 	display:flex;
 	justify-content: center;
@@ -75,8 +80,8 @@ aside {
 		bottom: auto;
 		top:0;
 		font-size: 6vh;
-		text-shadow: 1px 1px pink,
-			2px 2px deeppink;
+		text-shadow: 1px 1px #FF69B4,
+			2px 2px #FF35a0;
 	}
 	
 	aside {

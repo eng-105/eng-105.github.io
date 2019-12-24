@@ -65,11 +65,10 @@ aside {
 	
 	#content {
 		display:grid;
-		grid-template-columns: 60vw 20vw;
+		grid-template-columns: 60vw 15vw;
 		justify-content: center;
 		grid-gap: 5vw;
-		position:absolute;
-		top:7vh;
+		margin-top:7vh;
 	}
 	
 	header {
@@ -77,14 +76,13 @@ aside {
 		top:0;
 		font-size: 6vh;
 		text-shadow: 1px 1px pink,
-			2px 2px 1px lightpink,
-			3px 3px 2px grey;
+			2px 2px deeppink;
 	}
 	
 	aside {
-		display:flex;
+		display:block;
 		font-family: 'Open Sans', sans-serif;
 		font-style: italic;
-		font-size: 3vh;
+		font-size: 2vh;
 	}
 }

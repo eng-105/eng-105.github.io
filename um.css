@@ -7,6 +7,10 @@ font-family: 'Open Sans', sans-serif;
 
 */
 
+::selection {
+	background-color: none;
+}
+
 #content {
 	margin:0;
 	padding:0;
@@ -60,6 +64,7 @@ article img {
 	object-fit: cover;
 	margin:0;
 	padding: 0;
+	filter: grayscale(100%);
 }
 
 aside {
@@ -70,9 +75,9 @@ aside {
 	
 	#content {
 		display:grid;
-		grid-template-columns: 60vw 15vw;
+		grid-template-columns: 50vw 15vw;
 		justify-content: center;
-		grid-gap: 5vw;
+		grid-gap: 2vw;
 		margin-top:7vh;
 	}
 	
@@ -89,5 +94,11 @@ aside {
 		font-family: 'Open Sans', sans-serif;
 		font-style: italic;
 		font-size: 2vh;
+	}
+	
+	aside p {
+		margin:0;
+		text-indent:-10px;
+		padding-left: 10px;
 	}
 }

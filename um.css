@@ -7,6 +7,10 @@ font-family: 'Open Sans', sans-serif;
 
 */
 
+body {
+	background-color:lightblue;
+}
+
 ::selection {
 	background-color: #FF69B4;
 	color: white;

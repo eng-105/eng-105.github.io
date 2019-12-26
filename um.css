@@ -8,11 +8,11 @@ font-family: 'Open Sans', sans-serif;
 */
 
 body {
-	background-color:lightblue;
+	background-color:mintcream;
 }
 
 ::selection {
-	background-color: #FF69B4;
+	background-color: aquamarine;
 	color: white;
 }
 
@@ -37,8 +37,10 @@ header {
 	font-size:4vh;
 	font-family: 'Lobster', cursive;
 	z-index: 1;
-	background-color: lightblue;
-	text-shadow: 0px 0px 2px white;
+	background-color: mintcream;
+	text-shadow: 1px 1px white,
+		2px 2px grey,
+		0px 0px 1vh grey;
 }
 
 section {
@@ -95,8 +97,8 @@ aside {
 		bottom: auto;
 		top:0;
 		font-size: 6vh;
-		text-shadow: 1px 1px #FF69B4,
-			2px 2px 1px #FF35a0;
+		/*text-shadow: 1px 1px #FF69B4,
+			2px 2px 1px #FF35a0;*/
 	}
 	
 	aside {

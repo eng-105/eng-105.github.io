@@ -7,6 +7,10 @@ font-family: 'Open Sans', sans-serif;
 
 */
 
+body {
+	background-color:lightblue;
+}
+
 ::selection {
 	background-color: #FF69B4;
 	color: white;
@@ -33,7 +37,8 @@ header {
 	font-size:4vh;
 	font-family: 'Lobster', cursive;
 	z-index: 1;
-	background-color: white;
+	background-color: lightblue;
+	text-shadow: 0px 0px 2px white;
 }
 
 section {
@@ -50,6 +55,7 @@ article {
 	padding: 0;
 	margin: 1vh;
 	max-height: 24vh;
+	background-color:white;
 }
 
 article p {

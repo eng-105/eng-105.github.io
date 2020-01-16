@@ -6,7 +6,10 @@ p {
 	padding-left: 3rem;
 	text-indent: -3rem;
 	line-height: 1.5rem;
-	font-size: 1.25rem;
+}
+
+h2 {
+	margin: 0;
 }
 
 #spring {
@@ -27,6 +30,8 @@ p {
 		display: grid;
 		grid-template-columns: 30vw 30vw;
 		justify-content: center;
+		grid-gap: 1vw;
+		margin-bottom: 4vh;
 	}
 	
 	#notes {
@@ -35,5 +40,15 @@ p {
 	
 	h2 {
 		grid-column: 1 / span 2;
+	}
+	
+	div {
+		border: 1px solid lightgrey;
+		border-radius: 25px;
+		padding: 1.5rem;
+	}
+	
+	p {
+		font-size: 1.25rem;
 	}
 }

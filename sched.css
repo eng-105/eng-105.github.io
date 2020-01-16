@@ -1,6 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
 
+p {
+	margin: 0;
+	padding-left: 3rem;
+	text-indent: -3rem;
+	line-height: 1.5rem;
+	font-size: 1.25rem;
+}
+
 #spring {
 	color: inherit;
 	animation-name: break;
@@ -13,4 +21,19 @@
 	25% {color: hotpink;}
 	50% {color: turquoise;}
 	75% {color: greenyellow;}
+}
+@media (min-width: 800px){
+	section {
+		display: grid;
+		grid-template-columns: 30vw 30vw;
+		justify-content: center;
+	}
+	
+	#notes {
+		grid-template-columns: 40vw;
+	}
+	
+	h2 {
+		grid-column: 1 / span 2;
+	}
 }

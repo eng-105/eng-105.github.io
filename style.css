@@ -7,10 +7,6 @@ font-family: 'Open Sans', sans-serif;
 
 */
 
-body {
-	background-color:mintcream;
-}
-
 ::selection {
 	background-color: aquamarine;
 	color: white;
@@ -37,7 +33,6 @@ header {
 	font-size:4vh;
 	font-family: 'Lobster', cursive;
 	z-index: 1;
-	background-color: mintcream;
 	text-shadow: 1px 1px white,
 		2px 2px grey,
 		0px 0px 1vh grey;

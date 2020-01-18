@@ -29,10 +29,14 @@ font-family: 'Open Sans', sans-serif;
 		font-size: 1.5rem;
 		font-style: italic;
 		font-variant: small-caps;
-		margin: 0 0 .75rem 0;
+		margin: .25rem 0 .5rem 0;
 	}
 	
 	p {
+		margin: 0;
+	}
+	
+	ul {
 		margin: 0;
 	}
 }

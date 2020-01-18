@@ -10,6 +10,10 @@
 	display: block;
 }
 
+#syllabus p {
+	margin: 0;
+}
+
 #syllabus p, #instructor p {
 	padding-left: 0;
 }

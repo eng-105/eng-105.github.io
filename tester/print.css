@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: .125in .5in 0 .5in;
+}
+
+div {
+	margin: 0 0 .25rem 0;
+	padding: 0 0 .25rem 0;
+}
+
+section {
+	display: grid;
+	border-bottom: 1px solid lightgrey;
+	margin: 0 0 .75rem 0;
+}
+
+section p {
+	margin: 0 0 .25rem 0!important;
+	padding-left: 2rem;
+}
+
+section p:first-of-type {
+	text-indent: -2rem;
+}
+
+* {
+	font-family: Garamond, serif;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+em {
+	font-style: normal;
+	font-weight: bold;
+}
+
+h2,h3 {
+	font-weight: normal;
+}
+
+p, h2 {
+	margin: 0 0 .75rem 0;
+}
+
+header {
+	font-size: 1.25rem;
+	text-align: center;
+	font-style: italic;
+	font-variant: small-caps;
+	margin: 0 0 .75rem 0;
+}
+
+h2 {
+	font-size: 1.25rem;
+	font-style: italic;
+	font-variant: small-caps;
+	grid-column: 1 / span 2;
+}
+
+h3 {
+	font-size: 1.1rem;
+	margin: 0;
+}
+
+#instructor {
+	max-width: 2.5in;
+	margin: 0 auto .75rem auto;
+	border: 1px solid lightgrey;
+	padding: 0 .25in 0 .25in;
+}
+
+#instructor p {
+	margin: 0;
+	font-size: .75rem;
+}
+
+#instructor h3 {
+	margin: 0;
+	font-size: .75rem;
+}
+
+#grades {
+	display: grid;
+	grid-template-columns: 2in 1.5in;
+	margin: 0 0 .75rem 0;
+}
+
+#grades p {
+	margin: 0 0 .25rem 0;
+	padding: 0 0 .25rem 0;
+	border-bottom: 1px solid lightgrey;
+}
+
+#papers {
+	grid-column: 1 / span 2;
+	border-bottom: none;
+}
+
+#spring {
+	margin: 0 0 .75rem 0;
+	font-size: 1rem;
+}

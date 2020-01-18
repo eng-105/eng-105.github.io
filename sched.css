@@ -54,7 +54,8 @@ header {
 header,h2 {
 	display:flex;
 	justify-content: center;
-	font-size:1.4rem;
+	text-align: center;
+	font-size:1.7rem;
 	font-family: 'Lobster', cursive;
 }
 
@@ -67,7 +68,7 @@ h3 {
 	padding: 1.5rem;
 	border-radius: 25px;
 	font-weight: normal;
-	font-size: 2rem;
+	font-size: 1.7rem;
 	text-align: center;
 }
 

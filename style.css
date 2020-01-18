@@ -30,7 +30,7 @@ header {
 	bottom:0;
 	left:0;
 	right:0;
-	font-size:4vh;
+	font-size:2rem;
 	font-family: 'Lobster', cursive;
 	z-index: 1;
 	background-color: white;
@@ -86,13 +86,13 @@ aside {
 		grid-template-columns: 55vw 15vw;
 		justify-content: center;
 		grid-gap: 2vw;
-		margin:7vh 0 0 0;
+		margin:2.5rem 0 0 0;
 	}
 	
 	header {
 		bottom: auto;
 		top:0;
-		font-size: 6vh;
+		font-size: 2rem;
 		/*text-shadow: 1px 1px #FF69B4,
 			2px 2px 1px #FF35a0;*/
 	}

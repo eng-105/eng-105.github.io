@@ -1,6 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 
+@keyframes break {
+	0% {color: aqua;}
+	25% {color: hotpink;}
+	50% {color: turquoise;}
+	75% {color: greenyellow;}
+}
+
 @media screen {
 	#spring {
 		color: inherit;
@@ -8,12 +15,33 @@
 		animation-duration: 5s;
 		animation-iteration-count: infinite;
 	}
+	header {
+		position:fixed;
+		bottom:0;
+		left:0;
+		right:0;
+		z-index: 1;
+		background-color: white;
+		font-size:1.75rem;
+		text-shadow: 1px 1px white,
+			2px 2px grey,
+			0px 0px 1vh grey;
+	}
 	
-	@keyframes break {
-		0% {color: aqua;}
-		25% {color: hotpink;}
-		50% {color: turquoise;}
-		75% {color: greenyellow;}
+	header,h2 {
+		display:flex;
+		justify-content: center;
+		font-size:1.5rem;
+		font-family: 'Lobster', cursive;
+	}
+	
+	p,h2,h3 {
+		margin: 0 0 .5rem 0;
+	}
+	
+	p {
+		font-size: 1.1rem;
+		line-height: 1.25rem;
 	}
 }
 	
@@ -33,8 +61,6 @@
 	div {
 		border: 1px solid lightgrey;
 		border-radius: 25px;
-		padding: 1.5rem;
-		margin-bottom: 0;
 	}
 }
 
@@ -49,6 +75,10 @@
 		grid-column-gap: .5in;
 		border-bottom: 1px solid lightgrey;
 		margin-bottom: .75rem;
+	}
+	
+	header {
+		display: none;
 	}
 	
 	p {

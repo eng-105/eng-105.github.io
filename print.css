@@ -52,6 +52,14 @@ section p:first-of-type {
 	font-family: Garamond, serif;
 }
 
+blockquote {
+	font-style: italic;
+}
+
+iframe {
+	display: none;
+}
+
 a {
 	color: black;
 	text-decoration: none;

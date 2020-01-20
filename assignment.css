@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.youtube {
+	background-image: url('youtube-logo.png');
+	background-size: 50px;
+	padding: 1rem;
+}
+
+.youtube p {
+	background-color: white;
+	padding: 2rem;
+}
+
+@media (min-width: 800px){
+}

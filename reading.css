@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+em {
+	font-style: normal;
+	font-weight: bold;
+	color: #f791e4;
+}
+
+::selection {
+	background-color: aquamarine;
+	color: black;
+}
+
+a {
+	color: #F791E4;
+}
+
+p,h2,h3 {
+	margin: 0 0 .5rem 0;
+}
+
+header {
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	z-index: 1;
+	background-color: white;
+	text-shadow: 1px 1px white,
+		2px 2px grey,
+		0px 0px 1vh grey;
+}
+
+header,h2 {
+	display:flex;
+	justify-content: center;
+	text-align: center;
+	font-size:2rem;
+	font-family: 'Lobster', cursive;
+	font-weight: normal;
+}
+
+p {
+	font-size: 1.1rem;
+	line-height: 1.5rem;
+}
+
+@media screen and (min-width: 800px){
+	header {
+		bottom: auto;
+		top: 0;
+	}
+	
+	section {
+		position: absolute;
+		top: 2.5rem;
+		left: 20vw;
+		right: 30vw;
+	}
+}

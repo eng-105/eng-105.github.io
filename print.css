@@ -1,6 +1,20 @@
 @charset "utf-8";
 /* CSS Document */
 
+#assignment {
+	display: block;
+}
+
+blockquote {
+	margin: 0 1in 0 1in;
+	font-style: italic;
+}
+
+.source {
+	margin: 0 1in 0 1in!important;
+	text-align: end;
+}
+
 #syllabus {
 	display: block;
 	border-bottom: none!important;
@@ -50,10 +64,6 @@ section p:first-of-type {
 
 * {
 	font-family: Garamond, serif;
-}
-
-blockquote {
-	font-style: italic;
 }
 
 iframe {

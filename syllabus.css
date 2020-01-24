@@ -37,7 +37,7 @@ em {
 
 a {
 	color: #F791E4;
-word-break:break-word;
+word-break:break-all;
 }
 
 header {

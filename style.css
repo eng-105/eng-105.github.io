@@ -80,6 +80,11 @@ aside {
 	display: none;
 }
 
+aside img {
+	width: 100%;
+	filter: grayscale(100%);
+}
+
 @media (min-width: 800px){
 	
 	#content {

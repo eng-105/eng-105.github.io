@@ -23,6 +23,11 @@ a {
 	text-decoration: none;
 }
 
+em {
+	font-weight: bold;
+	color: #f791e4;
+}
+
 header {
 	display:flex;
 	justify-content: center;

@@ -69,6 +69,10 @@ p,ul {
 	line-height: 1.5rem;
 }
 
+#syllabus {
+	margin-bottom: 2.5rem;
+}
+
 @media screen and (min-width: 800px) {
 	header {
 		bottom: auto;

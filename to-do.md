@@ -7,3 +7,8 @@
 * Eliminate reading reflection?
   * Or, alternately, better plan for implementing it (lesson plans here)
 * Sub for movie review
+* Update language in syllabus - esp. portfolio verbiage, course outcomes
+* Fix participation, draft document for best practices on Zoom
+* Update info about UBLearns/Eli Review
+* Add journal to requirements
+  * And journaling language somewhere

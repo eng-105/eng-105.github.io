@@ -44,3 +44,24 @@ First, a list as Briggs suggests: here I am not prioritizing, subordinating, or 
 * The modes
 * Writing as thinking
   * There was a promising-sounding essay cited by Lindemann on process, I think
+
+## Readings
+
+* Flusser
+* Freud on the parapraxis
+* Burke on rhetoric
+* Borges for plagiarism
+* Sommers on revision
+* Carr and maybe Kenneth Goldsmith on tech writing
+* Barthes on love letter, but also maybe Barthes on writing in general (*What is Writing?*)
+* Eli Review on peer feedback
+* Mazz and Drake (?)
+* The role of the period
+* Siepmann on English, French, German organization (?)
+  * This is probably something to redux for them
+* Shipka (?)
+* More *Views* essays?
+* Good interviews - but with whom?
+* Like the first four chapters of Fish?
+
+##### Currently, there are eight days worth of *They Say, I Say* readings on the syllabus. There are at least six more chapters that look good, though they should be paired with other stuff. Example: "What's Motivating this Writer?" ought to be paired with an essay to ask that question of...

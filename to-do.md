@@ -36,6 +36,7 @@
   * Clear punishments for different degrees of late work
 * [ ] Add journal to requirements
   * And journaling language somewhere
+* [ ] Select and update office hours
 * [ ] **At the end**, fix pagination for print version
   * Also craft printable copy of full reading list
 

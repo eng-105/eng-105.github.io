@@ -1,4 +1,8 @@
-# Schedule
+---
+title: Schedule
+css:
+- global.css
+...
 
 **All readings which are not from your textbook, *Views*, will be available via our course website.**
 

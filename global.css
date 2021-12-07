@@ -1,0 +1,56 @@
+/* 
+	This CSS file attempts to make tables produced by pandoc work.
+
+	It is not a permanent solution to the global.css file,
+	but rather an experimental prototype.
+
+*/ 
+
+body {
+	margin: 0 20% 0 20%;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1, h2 {
+	font-variant: small-caps;
+}
+
+table {
+	width: 100%!important;
+
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-radius: 10px;
+
+	border-spacing: 0;
+}
+
+col {
+	width: 50%!important;
+}
+
+th, td {
+	width: 50%!important;
+
+	border-bottom: 1px solid black;
+
+	text-align: center;
+
+	padding: .5rem 5%;
+}
+
+th:first-of-type, td:first-of-type {
+	border-right: 1px solid black;
+}
+
+.even {
+	background-color: lightgrey;
+}
+
+th {
+	text-align:center!important;
+}

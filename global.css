@@ -43,6 +43,10 @@ th, td {
 	padding: .5rem 5%;
 }
 
+td {
+	border-bottom-radius: 10px;
+}
+
 th:first-of-type, td:first-of-type {
 	border-right: 1px solid black;
 }

@@ -1,6 +1,6 @@
 * [*Wikipedia*, "First Year Writing."](https://en.wikipedia.org/wiki/First-year_composition)
 * [Vilém Flusser, "Introduction" and "Superscript" from *Does Writing have a Future?*](readings/flusser.pdf)
-* [Introducing the *New Yorker* Eurostep](https://defector.com/introducing-the-new-yorker-eurostep/)
+* [David Roth, "Introducing the *New Yorker* Eurostep."](https://defector.com/introducing-the-new-yorker-eurostep/)
 * [Nancy Sommers, "Revision Strategies of Student Writers and Experienced Adult Writers."](readings/sommers.pdf)
 * [Roland Barthes, "The Love Letter."](readings/barthes-loveletter.pdf)
 * [Margaret Talbot, "Is It Really Too Late to Learn New Skills?"](readings/talbot.pdf)

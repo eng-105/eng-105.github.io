@@ -51,8 +51,8 @@ Weekly Work             |   Weight
 Eli Review              |   25%
 Participation           |   10%
 
-Formal Assignments      |   Weight
-------------------------|-----------------
+Formal Assignments      |   Weight	|	Word Count
+------------------------|---------------|-----------------------
 A Day in the Life at UB |   
 Rhetorical Definitions  |   
 <!-- What -->

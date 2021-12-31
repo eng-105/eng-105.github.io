@@ -1,0 +1,14 @@
+/* Typography */
+
+/* Layout */
+
+body {
+	display:grid;
+	grid-template-columns: 75% 25%;
+
+	margin: 0 15%;
+}
+
+header, #menu {
+	grid-column: 1 / span 2;
+}

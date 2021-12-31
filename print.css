@@ -1,0 +1,42 @@
+/* Typography */
+
+header h1 {
+    font: normal 28pt sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font: italic small-caps normal 14pt sans-serif;
+}
+
+h2 {
+    font: normal 12pt sans-serif;
+}
+
+h5 {
+    display: none;
+}
+
+blockquote {
+    margin: 0 .5in 0 12pt;
+    font-style: italic;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+/* Layout */
+
+@page {
+    margin: .5in 1in 1in 1in;
+}
+
+img {
+    display: none;
+}
+
+iframe {
+    display: none;
+}

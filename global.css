@@ -43,7 +43,14 @@ a {
 	background-color: orchid;
 }
 
-/* Tables */
+/*  Layout  */
+
+header {
+    position: fixed;
+    background-color: white;
+}
+
+/*  Tables */
 
 table {
 	border-radius: 10px;
@@ -65,7 +72,7 @@ th {
 	border-bottom: 1px solid grey;
 }
 
-/* Homepage bubbles */
+/*  Homepage bubbles  */
 
 #menu {
 	display:flex;

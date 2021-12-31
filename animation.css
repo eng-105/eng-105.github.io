@@ -1,0 +1,13 @@
+@keyframes break {
+	0% {color: aqua;}
+	25% {color: hotpink;}
+	50% {color: turquoise;}
+	75% {color: greenyellow;}
+}
+
+h4 {
+	color: inherit;
+	animation-name: break;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+}

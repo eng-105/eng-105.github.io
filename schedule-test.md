@@ -1,10 +1,17 @@
 ## January 31-February 5
 
+Readings    |   Assignments
+------------|--------------
+**Wednesday**: *Wikipedia*, [First-Year Composition](https://en.wikipedia.org/wiki/First-year_composition); Alyssa, [A Day in the Life at the University at Buffalo](https://www.youtube.com/watch?v=-86PM-9fdgE); Avinash Polineni, [A Day in the Life of a UB student](https://www.youtube.com/watch?v=lMuY4M1SQfs). **Optional**: The Punxsutawney Groundhog Club, ["Legend & Lore"](https://www.groundhog.org/legend-and-lore). | **Wednesday**: Read our syllabus; read the Day in the Life assignment sheet and begin work on it.
+
 February 2: Groundhog Day
 
 ## February 7-February 11
 
-Draft of Day in the Life
+Readings    |   Assignments
+------------|--------------
+**Monday**: Vilém Flusser, [excerpts from *Does Writing Have a Future?*](reading/flusser-writing.pdf). | **Monday**: First draft of Day in the Life.
+**Wednesday**: Groucho Marx, [excerpt from *Groucho and me*](reading/groucho.pdf) | **Wednesday**: Peer review.
 
 ## February 14-February 18
 

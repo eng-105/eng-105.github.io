@@ -15,7 +15,7 @@ Office Hours: <!-- Clemens 542, TTh 10:00a-10:50a. -->
 
 # Course Summary
 
-This course is an introduction to research, writing, and rhetorical practices employed in academic and professional contexts. The course examines the operation of genres, the audiences they address, and the purposes they serve. The course focuses on the analysis and development of student writing and rhetorical practice. <!-- Our assignments include a researched essay, an interview, a rhetorical analysis, and a digital portfolio. -->
+This course is an introduction to research, writing, and rhetorical practices employed in academic and professional contexts. The course examines the operation of genres, the audiences they address, and the purposes they serve. The course focuses on the analysis and development of student writing and rhetorical practice. <!-- Our assignments include a researched essay, an interview, a rhetorical analysis, and a digital portfolio. --> Assignments include research essays, digital compositions, and oral presentations.
 
 # Learning Outcomes
 
@@ -100,7 +100,7 @@ Papers turned in without the entire required drafting, feedback, and revision hi
 
 ## Attendance
 
-The writing program attendance policy allows students one week total of unexcused absences. Each additional week of unexcused absence will reduce your final grade by one full letter. University-approved absences are excepted. In the case of a university-approved absence, please provide me with appropriate documentation.
+Please contact me via email if you will be absent from class. The writing program attendance policy allows students one week total of unexcused absences; since we meet twice a week, this means you may miss class twice this semester, no questions asked. Each additional week of unexcused absence will reduce your final grade by one full letter. University-approved absences are excepted. In the case of a university-approved absence, please provide me with appropriate documentation.
 
 ## UB Learns Portfolio
 

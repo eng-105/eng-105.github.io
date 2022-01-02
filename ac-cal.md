@@ -1,5 +1,6 @@
 ---
 title: UB's Academic Calendar
+
 ---
 
 # Academic calendar 2022

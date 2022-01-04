@@ -11,11 +11,14 @@ February 2: Groundhog Day
 Readings    |   Assignments
 ------------|--------------
 **Monday**: Vilém Flusser, [excerpts from *Does Writing Have a Future?*](reading/flusser-writing.pdf). | **Monday**: First draft of Day in the Life.
-**Wednesday**: Groucho Marx, [excerpt from *Groucho and me*](reading/groucho.pdf) | **Wednesday**: Peer review.
+**Wednesday**: Groucho Marx, [excerpt from *Groucho and Me*](reading/groucho.pdf). | **Wednesday**: Peer review.
 
 ## February 14-February 18
 
-Final of Day in the Life
+Readings    |   Assignments
+------------|--------------
+**Monday**: Kenneth Burke, ["Persuasion"](reading/burke-persuasion.pdf) | **Monday**: Final draft of Day in the Life
+**Wednesday**: Roland Barthes, ["The Love Letter"](reading/barthes-Love-Letter.pdf) | **Wednesday**: read the Defining Rhetoric assignment sheet and begin work on it.
 
 February 14: Valentine's Day
 

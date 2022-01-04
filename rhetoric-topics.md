@@ -3,11 +3,12 @@ title: Topics for rhetorical definition assignment
 
 ---
 
-* Audience/Reader
-* Purpose/Argument
-* Persuasion/Suasion
-* Genre
-* Conversation
-* Tone/Style
-* Form/at
-* "The best available means" -- what is the technical term for this?
+1. Audience/Reader
+2. Purpose/Argument
+3. Persuasion/Suasion
+4. Genre
+5. Conversation
+6. Tone/Style
+7. Form/at
+8. "The best available means" -- what is the technical term for this?
+9. Revision

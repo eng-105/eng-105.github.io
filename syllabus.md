@@ -1,6 +1,5 @@
 ---
-title: Writing & Rhetoric
-subtitle: Syllabus
+title: Writing & Rhetoric -- Syllabus
 
 ---
 
@@ -11,7 +10,7 @@ Instructor: Sam Helgeson
 
 Email: <sdhelges@buffalo.edu>
 
-Office Hours: <!-- Clemens 542, TTh 10:00a-10:50a. -->
+Office Hours: Clemens 542, TTh 10:00a-10:50a.
 
 ## Course Summary
 
@@ -33,15 +32,9 @@ Having completed English 105, you will be able to:
 * *Views: A Rhetoric and Reader for the University at Buffalo*. W. W. Norton & Company, 2021. 3rd edition.
 * Gerald Graff and Cathy Birkenstein, *They Say / I Say*. W. W. Norton & Company, 2021. 5th edition. 
 * Eli Review. Subscribe to this website at <https://elireview.com/> or purchase a subscription card from the UB bookstore. Our course code is **blast791dams**.
-* A word processor that is able to produce Microsoft Word document files (these have the extensions .doc and .docx). Microsoft Word, Google Docs, LibreOffice, and OpenOffice are all acceptable.
-* Software that can view and annotate PDF files. Adobe Acrobat Reader DC works well. Native tools for Windows and Mac are the Edge Browser and Preview, respectively.
+* A word processor that is able to produce Microsoft Word document files (these have the extensions .doc and .docx). 
+* Software that can open and add highlights to PDF files. 
 * A dedicated folder on your computer or in the cloud for this class.
-
-<!-- Where does this go? Some kind of "best practices" section? Perhaps a different file entirely?
-
-**A word on files**: Written work for this course is submitted electronically, using online tools. These tools can and often do crash. I *strongly* suggest that you do all your writing in your word processing software, then copy and paste your text into, for example, Eli Review. When you email me drafts or other pieces of writing, please attach them to the email as a Word document. And save those files somewhere on your computer.
-
--->
 
 ## Grading and Assignments
 
@@ -52,7 +45,7 @@ Participation           | 10%     |
 Portfolio Artifact      | 5%      | 
 A Day in the Life at UB | 10%     | 1000
 Defining Rhetoric       | 10%     | 1000
-Annotated Bibliography  | 5%      | 200 words/annotation
+Topic Proposal          | 5%      |  
 Research Essay          | 15%     | 1250
 Assignment Sheet        | 10%     | 750
 Final Project           | 10%     | 1000
@@ -67,11 +60,29 @@ Cell phones must be put away during class. Laptops and tablets should also be pu
 
 Please contact me via email if you will be absent from class. The writing program attendance policy allows students one week total of unexcused absences; since we meet twice a week, this means you may miss class twice this semester, no questions asked. Each additional week of unexcused absence will reduce your final grade by one full letter. University-approved absences are excepted. In the case of a university-approved absence, please provide me with appropriate documentation.
 
-<!-- Drafts and papers submissions policy -->
+### Participation
+
+Your familiarity with the assigned reading is the basis for your participation grade. Do not expect a satisfactory participation grade without reading everything assigned in advance of class and bringing questions and comments about it to our discussion. 
+
+### Assignment submissions
+
+There are three basic assignments in this class: early drafts of papers, final drafts of papers, and peer review comments. Early drafts and peer review comments will be submitted to Eli Review. Final drafts of papers should be printed and handed to me at the beginning of class.
+
+Final drafts should be double-spaced, in 12pt Times New Roman font. When possible, print double-sided.
+
+**A Note about Files**: Word processors like Microsoft Word and Google Docs are more stable than Eli Review. Always write drafts in your word processor of choice, then copy and paste your work into Eli Review.
+
+<!-- In class: As mentioned above, the dedicated folder is highly important. It will allow you to produce different files for different drafts. It will save you the heartache of losing your work. -->
+<!-- Earlier version of same:
+
+**A word on files**: Written work for this course is submitted electronically, using online tools. These tools can and often do crash. I *strongly* suggest that you do all your writing in your word processing software, then copy and paste your text into, for example, Eli Review. When you email me drafts or other pieces of writing, please attach them to the email as a Word document. And save those files somewhere on your computer.
+
+-->
+
 
 ### Draft Policy
 
-No paper without at least one prior draft and round of feedback will be accepted. 
+No paper without at least one early draft and one round of feedback will be accepted. 
 
 Papers turned in without the entire required drafting, feedback, and revision history will be docked 2 points. For example: a paper earning 14 points will be marked down to 12 points if not accompanied by a draft with comments, or if you have not commented on your classmates' papers.
 

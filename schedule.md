@@ -55,6 +55,7 @@ March 8: International Women's Day
 ## March 14-March 18
 
 Readings | Assignments
+---|---
 **Monday**: Nancy Sommers, ["Revision Strategies of Student Writers and Experienced Adult Writers"](reading/sommers-revision.pdf)  | **Monday**: Make a list of three potential topics for your Research Essay.
 **Wednesday**: Margaret Talbot, ["Why It's Not Too Late to Learn New Skills"](reading/talbot-skills.pdf); Library research materials. | **Wednesday**: Topic proposal (email this to me directly).
 

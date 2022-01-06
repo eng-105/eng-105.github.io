@@ -1,20 +1,21 @@
 /* Typography */
 
-header h1 {
+h1 {
     font: normal 28pt sans-serif;
     text-align: center;
 }
 
-h1 {
+h2 {
     font: italic small-caps normal 14pt sans-serif;
 }
 
-h2 {
+h3 {
     font: normal 12pt sans-serif;
 }
 
-h5 {
-    display: none;
+h4, h5 {
+    font: italic 12pt serif;
+    color: black;
 }
 
 blockquote {

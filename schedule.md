@@ -1,3 +1,8 @@
+---
+title: Schedule
+
+---
+
 ## January 31-February 5
 
 Readings    |   Assignments
@@ -35,23 +40,23 @@ February 21: President's Day
 
 Readings | Assignments
 ---|---
-**Monday**: Nancy Sommers, ["Revision Strategies of Student Writers and Experienced Adult Writers."](reading/sommers-revision.pdf) | **Monday**: Final of Rhetorical Definition.
-**Wednesday**: *Views*/*They Say / I Say*, "Introduction: Entering the Conversation"; Library research materials. | **Wednesday**: Begin assessing your group's definition.
+**Monday**: *Views*, "Introduction: Entering the Conversation" | **Monday**: Final of Rhetorical Definition.
+**Wednesday**: *Views*, "'They Say': Starting with What Others Are Saying."; Library research materials. | **Wednesday**: Begin assessing your group's definition.
 
 ## March 7-March 11
 
 Readings | Assignments
 ---|---
-**Monday**: *Views*/*They Say / I Say*, "'They Say': Starting with What Others Are Saying." | **Monday**: <!-- Some tangible assignment related to compiling the group's definitions -->
-**Wednesday**: *Views*/*They Say / I Say*, "'Her Point Is': The Art of Summarizing"; Library research materials. | **Wednesday**: <!-- Part two of tangible group submission -->
+**Monday**: *Views*, "'Her Point Is': The Art of Summarizing"| **Monday**: <!-- Some tangible assignment related to compiling the group's definitions -->
+**Wednesday**: *Views*, "'As He Himself Puts It': The Art of Quoting; Library research materials. | **Wednesday**: <!-- Part two of tangible group submission -->
 
 March 8: International Women's Day
 
 ## March 14-March 18
 
-Topic Proposal and Annotated bibliography
-
-Library week 3
+Readings | Assignments
+**Monday**: Nancy Sommers, ["Revision Strategies of Student Writers and Experienced Adult Writers"](reading/sommers-revision.pdf)  | **Monday**: Make a list of three potential topics for your Research Essay.
+**Wednesday**: Margaret Talbot, ["Why It's Not Too Late to Learn New Skills"](reading/talbot-skills.pdf); Library research materials. | **Wednesday**: Topic proposal (email this to me directly).
 
 March 17: St. Patrick's Day
 

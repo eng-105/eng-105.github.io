@@ -45,51 +45,29 @@ Having completed English 105, you will be able to:
 
 ## Grading and Assignments
 
-Weekly Work             |   Weight
-------------------------|-----------------
-Eli Review              |   25%
-Participation           |   10%
-
-Formal Assignments      |   Weight	|	Word Count
-------------------------|---------------|-----------------------
-A Day in the Life at UB |   
-Rhetorical Definitions  |   
-<!-- What -->
-Assignment Sheet        |   
-Portfolio Artifact      |   5%
-Final Project           |   
-
-<!-- 
-
-You need to fiure out assignments 
-
-Also: you should assign percentage values for uploading a digital artifact and for the annotated bibliography (if you have them make one)
-
--->
-
-### Assignment Notes
-
-**Eli Review:** There will be work due on Eli Review twice weekly. Please check this site often.
- 
-**Participation:** Your participation grade is based on the number of times you speak per class.
- 
-<!-- Summaries of any other assignment? -->
+Assignment              | Weight  | Word Count
+------------------------|---------|-----------
+Eli Review              | 25%     |
+Participation           | 10%     | 
+Portfolio Artifact      | 5%      | 
+A Day in the Life at UB | 10%     | 1000
+Defining Rhetoric       | 10%     | 1000
+Annotated Bibliography  | 5%      | 200 words/annotation
+Research Essay          | 15%     | 1250
+Assignment Sheet        | 10%     | 750
+Final Project           | 10%     | 1000
 
 ## Course Policies
 
 ### Technology Policy
 
-Cell phones and laptops must be put away during class discussion. 
+Cell phones must be put away during class. Laptops and tablets should also be put away except when you are explicitly asked to write in class.
 
-However, please do bring your laptop or tablet to our Thursday meetings. We will often be writing informally in the Clemens computer lab.
+### Attendance
+
+Please contact me via email if you will be absent from class. The writing program attendance policy allows students one week total of unexcused absences; since we meet twice a week, this means you may miss class twice this semester, no questions asked. Each additional week of unexcused absence will reduce your final grade by one full letter. University-approved absences are excepted. In the case of a university-approved absence, please provide me with appropriate documentation.
 
 <!-- Drafts and papers submissions policy -->
-
-### Late Work
-
-Please submit every rough draft to Eli Review on time, even if it is incomplete or you are unsatisfied with it. 
-
-You can avoid late penalties on final drafts by asking for an extension *in advance of the due date*. I'm happy to be flexible, but I need to know about it in advance.
 
 ### Draft Policy
 
@@ -97,9 +75,11 @@ No paper without at least one prior draft and round of feedback will be accepted
 
 Papers turned in without the entire required drafting, feedback, and revision history will be docked 2 points. For example: a paper earning 14 points will be marked down to 12 points if not accompanied by a draft with comments, or if you have not commented on your classmates' papers.
 
-### Attendance
+### Late Work
 
-Please contact me via email if you will be absent from class. The writing program attendance policy allows students one week total of unexcused absences; since we meet twice a week, this means you may miss class twice this semester, no questions asked. Each additional week of unexcused absence will reduce your final grade by one full letter. University-approved absences are excepted. In the case of a university-approved absence, please provide me with appropriate documentation.
+Please submit every rough draft to Eli Review on time, even if it is incomplete or you are unsatisfied with it. 
+
+You can avoid late penalties on final drafts by asking for an extension *in advance of the due date*. I'm happy to be flexible, but I need to know about it in advance.
 
 ### UB Learns Portfolio
 

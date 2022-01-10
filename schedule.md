@@ -56,8 +56,8 @@ March 8: International Women's Day
 
 Readings | Assignments
 ---|---
-**Monday**: Nancy Sommers, ["Revision Strategies of Student Writers and Experienced Adult Writers"](reading/sommers-revision.pdf)  | **Monday**: Make a list of three potential topics for your Research Essay.
-**Wednesday**: Margaret Talbot, ["Why It's Not Too Late to Learn New Skills"](reading/talbot-skills.pdf); Library research materials. | **Wednesday**: Topic proposal (email this to me directly).
+<!-- *Views* -->  | **Monday**: Make a list of three potential topics for your Research Essay.
+<!-- *Views* -->; Library research materials. | **Wednesday**: Topic proposal (email this to me directly).
 
 March 17: St. Patrick's Day
 
@@ -66,18 +66,20 @@ March 17: St. Patrick's Day
 #### Spring Recess
 
 ## March 28-April 1
+**Monday**: Nancy Sommers, ["Revision Strategies of Student Writers and Experienced Adult Writers"](reading/sommers-revision.pdf) | First draft of Research Essay
+**Wednesday**: Margaret Talbot, ["Why It's Not Too Late to Learn New Skills"](reading/talbot-skills.pdf); First draft of Research Essay | Peer review
 
-First draft of Research Essay
-
-Library week 4
+<!-- Review *Views* reading to-date -->
 	
 ## April 4-April 8
 
-Second Draft of Research Essay
+**Monday**: <!-- *Views --> | **Monday**: Second Draft of Research Essay
+**Wednesday**: <!-- *Views* --> | **Wednesday**: Peer review
 
 ## April 11-April 15
 
-Final draft of Research Essay
+**Monday**: <!-- *Views --> | **Monday**: Final Draft of Research Essay
+**Wednesday**: <!-- *Views* --> | **Wednesday**: Begin reading and working on the Assignment Sheet assignment.
 
 ## April 18-April 22
 
@@ -100,4 +102,3 @@ May 8: Mother's Day
 ## May 9-May 13
 
 Final draft of Final Project
-	

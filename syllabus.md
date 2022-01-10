@@ -34,12 +34,12 @@ Having completed English 105, you will be able to:
 * Eli Review. Subscribe to this website at <https://elireview.com/> or purchase a subscription card from the UB bookstore. Our course code is **blast791dams**.
 * A word processor that is able to produce Microsoft Word document files (these have the extensions .doc and .docx). 
 * Software that can open and add highlights to PDF files. 
-* A dedicated folder on your computer or in the cloud for this class.
+* A dedicated folder on your computer for this class.
 
 ## Grading and Assignments
 
 Assignment              | Weight  | Word Count
-------------------------|---------|-----------
+------------------------|--------:|----------:
 Eli Review              | 25%     |
 Participation           | 10%     | 
 Portfolio Artifact      | 5%      | 
@@ -78,7 +78,6 @@ Final drafts should be double-spaced, in 12pt Times New Roman font. When possibl
 **A word on files**: Written work for this course is submitted electronically, using online tools. These tools can and often do crash. I *strongly* suggest that you do all your writing in your word processing software, then copy and paste your text into, for example, Eli Review. When you email me drafts or other pieces of writing, please attach them to the email as a Word document. And save those files somewhere on your computer.
 
 -->
-
 
 ### Draft Policy
 

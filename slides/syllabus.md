@@ -128,6 +128,8 @@ These, like the materials on the previous slide, are also required. The differen
 
 *Don't* be one of my students who loses their essay because they wrote it in a web browser and lost their work when the page refreshed. *Don't* leave your essay tab open for days. Save it somewhere and close the tab.
 
+You might want to email me a draft of a paper to see if you're on the right track. Please attach these as a Word document; don't paste the draft into the body of an email -- that's very difficult to read.
+
 :::
 
 ## Grading and Assignments
@@ -144,59 +146,92 @@ Research Essay          | 15%     | 1250
 Assignment Sheet        | 10%     | 750
 Final Project           | 10%     | 1000
 
+::: notes
+
+Here is a table of your major assignments. This is on the syllabus too. We'll talk more about what each of these is as they come.
+
+For now, pay attention to the fact that Eli Review is 25% of your grade. That's important. Don't ignore Eli Review.
+
+:::
+
 ## Course Policies
 
 ### Technology Policy
 
-Cell phones must be put away during class. Laptops and tablets should also be put away except when you are explicitly asked to write in class.
+* No phones in class
+* Laptops out only on my request
 
 ### Attendance
 
-Please contact me via email if you will be absent from class. The writing program attendance policy allows students one week total of unexcused absences; since we meet twice a week, this means you may miss class twice this semester, no questions asked. Each additional week of unexcused absence will reduce your final grade by one full letter. University-approved absences are excepted. In the case of a university-approved absence, please provide me with appropriate documentation.
+* Absences granted on request
+* Two free unexcused absences; grade penalties for anything more
+
+::: notes
+
+The technology and attendance policy are both in place to ensure that our class dynamic makes productive use of your time. Unfortunately, this class will not function successfully if we are not in dialogue with each other. The only way to learn about genre, audience, purpose, argument, and revision is to put them into practice by talking about them, and by talking about things we read together. So I am attempting to reduce the amount of distraction you encounter as much as possible, and to encourage you to come to class.
+
+That said, I would rather you were *really here* than here slumped over in your chair falling asleep. If you're going to come to class and not contribute, I suggest you make up some reason you can't come and email me about it. There's always the risk that I'll start counting those absences against you, but I also might start counting you absent even if you're present if you're not contributing.
+
+Which brings me to...
+
+:::
+
+## Course Policies
 
 ### Participation
 
-Your familiarity with the assigned reading is the basis for your participation grade. Do not expect a satisfactory participation grade without reading everything assigned in advance of class and bringing questions and comments about it to our discussion. 
+* Participation is 10% of your final grade
+* Full participation will only be granted if you speak every class period
+* Most opportunities to speak in class will be about the assigned reading
+* While reading, mark passages to bring up in class:
+	* Passages you find interesting/surprising
+	* Passages you have questions about
+	* Passages you agree/disagree with
+
+## Course Policies
 
 ### Assignment submissions
 
-There are three basic assignments in this class: early drafts of papers, final drafts of papers, and peer review comments. Early drafts and peer review comments will be submitted to Eli Review. Final drafts of papers should be printed and handed to me at the beginning of class.
-
-Final drafts should be double-spaced, in 12pt Times New Roman font. When possible, print double-sided.
-
-**A Note about Files**: Word processors like Microsoft Word and Google Docs are more stable than Eli Review. Always write drafts in your word processor of choice, then copy and paste your work into Eli Review.
-
-<!-- In class: As mentioned above, the dedicated folder is highly important. It will allow you to produce different files for different drafts. It will save you the heartache of losing your work. -->
-<!-- Earlier version of same:
-
-**A word on files**: Written work for this course is submitted electronically, using online tools. These tools can and often do crash. I *strongly* suggest that you do all your writing in your word processing software, then copy and paste your text into, for example, Eli Review. When you email me drafts or other pieces of writing, please attach them to the email as a Word document. And save those files somewhere on your computer.
-
--->
+* Rough drafts are submitted on Eli Review
+* Final drafts should be printed and handed to me on Tuesdays
 
 ### Draft Policy
 
-No paper without at least one early draft and one round of feedback will be accepted. 
+* No paper without at least one early draft and one round of feedback will be accepted. 
+* Unrevised papers will be docked two points
+* Papers that have not received feedback will be docked two points
 
-Papers turned in without the entire required drafting, feedback, and revision history will be docked 2 points. For example: a paper earning 14 points will be marked down to 12 points if not accompanied by a draft with comments, or if you have not commented on your classmates' papers.
+::: notes
+
+Since revision is one of our key concepts, you will rewrite each of the four papers in this class at least once, based on feedback you receive from your classmates and from myself. The early versions of each paper should be submitted to Eli Review, where your classmates will be able to comment on them. After you complete a final copy of a paper, you'll hand it in to me in paper format.
+
+If you fail to submit a paper to Eli Review on time, you won't receive feedback; this means you will be unable to revise, which means in turn that you are not learning the art of rewriting. Consequently, any paper that has not gone through the required drafting process will lose points.
+
+It's *imperative*, therefore, that you turn in drafts to Eli Review on time. You'll get better feedback if they're complete, polished drafts, but if there are a few rough edges still, *please* submit anyway.
+
+:::
+
+## Course Policies
 
 ### Late Work
 
-Please submit every rough draft to Eli Review on time, even if it is incomplete or you are unsatisfied with it. 
+* Submit every rough draft to Eli Review on time
+* Avoid late penalties on final drafts by asking for an extension *in advance of the due date*.
 
-You can avoid late penalties on final drafts by asking for an extension *in advance of the due date*. I'm happy to be flexible, but I need to know about it in advance.
-
-### UB Learns Portfolio
-
-Portfolios are part of the UB Curriculum, which seeks to encourage students to bring the various aspects of their university learning experience together. You can access the portfolio through your UB Learns account. For additional help please email <ublearns@buffalo.edu> or <UBcurriculum@buffalo.edu> with subject line "ePortfolio help."
+## Course Policies
 
 ### Academic Dishonesty
 
-Please familiarize yourself with the University's Academic Integrity policy. In a writing course, we are particularly concerned with plagiarism, which the catalog describes as "Copying or receiving material from any source and submitting that material as one's own, without acknowledging and citing the particular debts to the source (quotations, paraphrases, basic ideas), or in any other manner representing the work of another as one's own." The writing program's policy states that the first instance of plagiarism will result in an "F" on that assignment. Any additional instances of plagiarism will
-result in failure of the course.
+* Plagiarism violates UB's academic dishonesty policy
+* In any course at UB, plagiarism can result in:
+	* Failing the course
+	* Explusion
+
+## Course Policies
 
 ### Repeat Policy
 
-Enrollment in a controlled enrollment course (CEC) such as English 105 is restricted by the available student positions, and self-registration for a CEC in any fall or spring semesters is available only to students taking that course for the first time. Repeat enrollment may be difficult or impossible in a fall or spring semester; a student seeking to repeat a CEC should plan to register for and do this in a UB summer session. Open seats available just prior to the start of a fall or spring semester may be released with registration on a first come first served basis. Repeat enrollment is enrollment by a student who previously enrolled in the course at UB or transferred an equivalent course to UB and for which course the student has a grade of 'A', 'B', 'C', 'D', 'F' or qualified value thereof [e.g., 'A-', 'D+'], or a grade of 'P', 'S', 'U', 'I', 'J', 'N', or 'R'. A student may self-register to repeat a CEC in a fall or spring term only if the student's grade of record for the previous enrollment is 'W', i.e., administrative withdrawal. Students may petition for enrollment in such a designated spring course by the third week of the preceding fall semester, and in a fall course by the third week of the preceding spring semester. Information about the petition process and other facets of UB's Repeat Policy can be accessed here: <https://catalog.buffalo.edu/policies/repeat.html>.
+This course can only be repeated in the Winter/Summer sessions.
 
 ### Incomplete Policy
 
@@ -206,13 +241,17 @@ An incomplete grade may only be given to students who have (1) fulfilled the att
 
 ### Tutoring in Writing
 
-The Center for Excellence in Writing (CEW) provides individual consultations to support you at any stage of your writing process.  Friendly and relatable CEW consultants help students at their individualized points of need or interest, whether it be devising an approach to an assignment, brainstorming, assistance with the research process, helping you to generate more material, assisting with citation practices, providing feedback on a finished draft, and more. The CEW also can be a great source of ongoing support for students writing outside of their native language. The CEW's main center is located in 209 Baldy Hall. Appointments can be made by dropping in, online at <http://www.buffalo.edu/writing.html>, or by calling 645-5139.
+* The Center for Excellence in Writing (CEW): <http://www.buffalo.edu/writing.html>
 
 Additional tutoring, especially for early stages of a major assignment, will be available in the Academic and Professional Writing Program's offices. Ask me for details or contact the APWP at <engcomp@buffalo.edu>.
+
+## Resources
 
 ### Accessibility Resources
 
 If you require classroom or testing accommodations due to a disability, please contact Accessibility Resources, located at 60 Capen Hall. AR can be reached by phone at 716-645-2608 or by email at <stu-accessibility@buffalo.edu>. You may also visit the Accessibility Resources website for further information. Please inform me as soon as possible about your needs so that we can coordinate your accommodations.
+
+## Resources
 
 ### Student Support Services
 

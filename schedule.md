@@ -41,14 +41,16 @@ February 21: President's Day
 Readings | Assignments
 ---|---
 **Monday**: *Views*, "Introduction: Entering the Conversation" | **Monday**: Final of Rhetorical Definition.
-**Wednesday**: *Views*, "'They Say': Starting with What Others Are Saying."; Library research materials. | **Wednesday**: Begin assessing your group's definition.
+**Wednesday**: *Views*, "'They Say': Starting with What Others Are Saying."; Library research materials. | **Wednesday**: Begin considering topics for your research essay.
+
+<!-- Transition to research essay -->
 
 ## March 7-March 11
 
 Readings | Assignments
 ---|---
-**Monday**: *Views*, "'Her Point Is': The Art of Summarizing"| **Monday**: <!-- Some tangible assignment related to compiling the group's definitions -->
-**Wednesday**: *Views*, "'As He Himself Puts It': The Art of Quoting; Library research materials. | **Wednesday**: <!-- Part two of tangible group submission -->
+**Monday**: *Views*, "'Her Point Is': The Art of Summarizing"| **Monday**: Have a list of three potential research essay topics; bring this list to class on Tuesday.
+**Wednesday**: *Views*, "'As He Himself Puts It': The Art of Quoting; Library research materials. | **Wednesday**: [Email me](mailto:sdhelges@buffalo.edu) your topic proposal.
 
 March 8: International Women's Day
 
@@ -56,8 +58,8 @@ March 8: International Women's Day
 
 Readings | Assignments
 ---|---
-<!-- *Views* -->  | **Monday**: Make a list of three potential topics for your Research Essay.
-<!-- *Views* -->; Library research materials. | **Wednesday**: Topic proposal (email this to me directly).
+**Monday**: Nancy Sommers, ["Revision Strategies of Student Writers and Experienced Adult Writers"](reading/sommers-revision.pdf) | **Monday**: Second Draft of Research Essay
+**Wednesday**: Margaret Talbot, ["Why It's Not Too Late to Learn New Skills"](reading/talbot-skills.pdf) | **Wednesday**: Peer review
 
 March 17: St. Patrick's Day
 
@@ -66,35 +68,49 @@ March 17: St. Patrick's Day
 #### Spring Recess
 
 ## March 28-April 1
-**Monday**: Nancy Sommers, ["Revision Strategies of Student Writers and Experienced Adult Writers"](reading/sommers-revision.pdf) | First draft of Research Essay
-**Wednesday**: Margaret Talbot, ["Why It's Not Too Late to Learn New Skills"](reading/talbot-skills.pdf); First draft of Research Essay | Peer review
+
+Readings | Assignments
+---|---
+**Monday**: *Views*, "'Yes / No / Ok, But': Three Ways to Respond."  | **Monday**: First draft of research essay.
+**Wednesday**: *Views*, "'And Yet': Distinguishing What You Say from What They Say"; Library research materials. | **Wednesday**: Peer review.
 
 <!-- Review *Views* reading to-date -->
 	
 ## April 4-April 8
 
-**Monday**: <!-- *Views --> | **Monday**: Second Draft of Research Essay
-**Wednesday**: <!-- *Views* --> | **Wednesday**: Peer review
+Readings | Assignments
+---|---
+**Monday**: *Views*, "'So What? Who Cares?': Saying Why It Matters." | **Monday**: Second draft of research essay.
+**Wednesday**: *Views*, "'As a Result': Connecting the Parts." | **Wednesday**: Peer Review
 
 ## April 11-April 15
 
-**Monday**: <!-- *Views --> | **Monday**: Final Draft of Research Essay
-**Wednesday**: <!-- *Views* --> | **Wednesday**: Begin reading and working on the Assignment Sheet assignment.
+Readings | Assignments
+---|---
+**Monday**: "'You Mean I Can Just Say It that Way?': Academic Writing Doesn't Mean Setting Aside Your Own Voice." | **Monday**: Final Draft of Research Essay
+**Wednesday**: "'But Don't Get Me Wrong'": The Art of Metacommentary." | **Wednesday**: Begin reading and working on the Assignment Sheet assignment.
 
 ## April 18-April 22
 
-Draft of Assignment Sheet
+Readings | Assignments
+---|---
+**Monday**: "'What I Really Want to Say Is': Revising Substantially." | **Monday**: First draft of assignment sheet.
+**Wednesday**: "'I Take Your Point': Entering Class Discussions." | **Wednesday**: Peer review.
 
 April 22: Earth Day
 
 ## April 25-April 29
 
-Final of Assignment Sheet
+Readings | Assignments
+---|---
+**Monday**: "'What's Motivating this Writer?': Reading for the Conversation." | **Monday**: Final draft of assignment sheet.
+**Wednesday**: "'But as Several Sources Suggest': Research as Conversation." | **Wednesday**: Submit portfolio artifact.
 
 April 27: Administrative Professionals Day
 
 ## May 2-May 6
 
+<!-- READING?? -->
 First draft of Final Project
 
 May 8: Mother's Day

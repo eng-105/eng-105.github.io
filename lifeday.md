@@ -3,7 +3,7 @@ title: A Day in the Life at UB
 ---
 
 > Quotidian: "2. Of or occurring every day; daily."; "3. Of an everyday
-> character; commonplace, mundane, ordinary."\
+> character; commonplace, mundane, ordinary."
 
 ---*The Oxford English Dictionary*
 

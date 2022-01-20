@@ -112,7 +112,7 @@ An incomplete grade may only be given to students who have (1) fulfilled the att
 
 ### Tutoring in Writing
 
-The Center for Excellence in Writing (CEW) provides individual consultations to support you at any stage of your writing process.  Friendly and relatable CEW consultants help students at their individualized points of need or interest, whether it be devising an approach to an assignment, brainstorming, assistance with the research process, helping you to generate more material, assisting with citation practices, providing feedback on a finished draft, and more. The CEW also can be a great source of ongoing support for students writing outside of their native language. The CEW's main center is located in 209 Baldy Hall. Appointments can be made by dropping in, online at <http://www.buffalo.edu/writing.html>, or by calling 645-5139.
+The Center for Excellence in Writing (CEW) is available to help you with your essays through informal one-to-one meetings with a friendly writing consultant. The CEW offers in-person appointments (17 Norton), walk-in appointments (128 Capen), and virtual appointments evenings and Sundays. We can help you to work through any obstacle you may encounter in the writing process including planning, brainstorming, revising and final editing. Go to <http://www.buffalo.edu/writing.html> to make an appointment. Should you have any difficulty, email <writing@buffalo.edu> or drop in to 17 Norton or 128 Capen.
 
 Additional tutoring, especially for early stages of a major assignment, will be available in the Academic and Professional Writing Program's offices. Ask me for details or contact the APWP at <engcomp@buffalo.edu>.
 

@@ -32,7 +32,7 @@ February 14: Valentine's Day
 Readings | Assignments
 ---|---
 **Monday**: Nelson and Watt, ["Peer Review."](reading/nelsonwatt-peer.pdf) | **Monday**: Draft of Rhetorical Definition. 
-**Wednesday**: <!-- Wednesday? Need a good definitional reading --> | **Wednesday**: Peer review.
+**Wednesday**: Murfin and Ray, ["Metaphor."](reading/metaphor.html). | **Wednesday**: Peer review.
 
 February 21: President's Day
 
@@ -110,11 +110,14 @@ April 27: Administrative Professionals Day
 
 ## May 2-May 6
 
-<!-- READING?? -->
-First draft of Final Project
+Readings | Assignments
+---|---
+**Monday**: TBA | **Monday**: First draft of Final Project.
+**Wednesday**: TBA | **Wednesday**: Peer review.
 
 May 8: Mother's Day
 
 ## May 9-May 13
 
+**Monday**: Submit final draft of Final Project.
 Final draft of Final Project

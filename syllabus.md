@@ -41,12 +41,11 @@ Having completed English 105, you will be able to:
 Assignment              | Weight  | Word Count
 ------------------------|--------:|----------:
 Eli Review              | 25%     |
-Participation           | 10%     | 
-Portfolio Artifact      | 5%      | 
+Participation           | 15%     | 
 A Day in the Life at UB | 10%     | 1000
 Defining Rhetoric       | 10%     | 1000
 Topic Proposal          | 5%      |  
-Research Essay          | 15%     | 1250
+Research Essay          | 15%     | 1500
 Assignment Sheet        | 10%     | 750
 Final Project           | 10%     | 1000
 
@@ -93,7 +92,7 @@ You can avoid late penalties on final drafts by asking for an extension *in adva
 
 ### UB Learns Portfolio
 
-Portfolios are part of the UB Curriculum, which seeks to encourage students to bring the various aspects of their university learning experience together. You can access the portfolio through your UB Learns account. For additional help please email <ublearns@buffalo.edu> or <UBcurriculum@buffalo.edu> with subject line "ePortfolio help."
+If you are completing this course as part of your UB Curriculum requirements, please select an ‘artifact’ from this course that is representative of your learning and save it in a safe location with a clear title. Your final UB Curriculum requirement, UBC 399: UB Curriculum Capstone, will require you to submit these ‘artifacts’ as you process and reflect on your achievement and growth through the UB Curriculum. Artifacts include homework assignments, exams, research papers, projects, lab reports, presentations, and other coursework. For more information, see the UB Curriculum Capstone website: <https://www.buffalo.edu/ubcurriculum/capstone.html>.
 
 ### Academic Dishonesty
 

@@ -1,5 +1,3 @@
-# Englilsh 105 writing & rhetoric
+# Welcome to English 105, Spring 22
 
-The website for English 105. Please be nice to me on here.
-
-![ThemePic](battery.png)
+![Battery](pics/battery.png)

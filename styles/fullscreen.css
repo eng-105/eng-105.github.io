@@ -12,3 +12,7 @@ body {
 header, #menu {
 	grid-column: 1 / span 2;
 }
+
+aside {
+    padding:0 1rem;
+}

@@ -2,67 +2,68 @@
 title: A Day in the Life at UB
 ---
 
-> Quotidian: "2. Of or occurring every day; daily."; "3. Of an everyday
-> character; commonplace, mundane, ordinary."
+For your first assignment, you will produce a digital composition
+documenting an average day in your life as a college student. You will
+then write a 1,000-word analysis of that documentation.
 
----*The Oxford English Dictionary*
+## The Digital Composition
 
-As the definition from the wonderful [*Oxford English
-Dictionary*](https://research.lib.buffalo.edu/OED) above suggests, our
-daily experiences can seem "ordinary" and "mundane" -- we might even say
-"boring." However, daily experiences and events, when presented in
-certain ways, also have the potential to arrest our interest. The
-discrepancy between the boringness and interestingness of everyday life
-is perhaps nowhere more visible than on social media, where we voraciously
-(and sometimes voyeuristically) observe such everday activities as going
-shopping, going to the gym, or going to school.
+"Digital composition" is an intentionally vague phrase, because I want
+you to select your own medium for this part of the assignment. Please
+pick something that works well for you, but here are some general ideas:
 
-Your first assignment features two components: a digital media creation
-and a piece of writing which will accompany it.
+-   A vlog, as if for *YouTube*
 
-## The digital media component
+-   A podcast
 
-For this part of the assignment, you will document one single day in your life
-at UB using any digital audio or visual tool. Although this assignment is
-inspired by the "Day in My Life at [INSERT COLLEGE NAME]" genre of YouTube
-videos, you are free to complete this assignment using any contemporary
-form or genre of digital communication. A series of TikTok/Instagram
-posts or a podcast, for example, would be acceptable.
+-   A website
 
-You have two objectives in completing this digital media component:
+-   A series of short videos, as if for *TikTok*
 
-* To make the quotidian features of your daily life interesting to the
-average viewer.
-* To give an account of what daily life is like as a student at UB.
+Once you've decided on what you want to make, but before you begin
+making it, carefully consider the following aspects of your digital
+composition:
 
-It is not necessary that you make this digital component available via
-the public internet; you only be able to share it with myself and your
-classmates.
+-   Its **genre** -- what are the typical features of this style of
+    composition? What is usually included, and what is left out? What is
+    its tone?
 
-## The writing component
+-   Its **purpose** -- what do you want your viewer to get out of your
+    composition? New information? New attitudes or beliefs? A few
+    laughs?
 
-Once you have documented your day as above, you will write a 1,000-word
-reflection on your digital creation. 
+-   Its **audience** -- what kind of person typically interacts with
+    your chosen medium and genre? What do they expect from it, and how
+    will you make sure your composition doesn't disappoint? How will
+    their preexisting attitudes and beliefs shape how they interpret
+    your digital composition?
 
-Your objective in this reflection is not to recap your daily life once
-again. Instead, your objective here is to analyze the way you represented
-your life in your chosen digital medium. You might answer the following
-questions:[^questions]
+Use these questions to plan and structure your digital composition.
+Then, when you're ready, document an average day in your life at UB.
 
-* How did you make daily life as a college student seem fresh, 
-interesting, funny, or strange? 
-* Who might be the target audience of your digital creation?
-* What genre is your creation? How did the genre shape how you represented
-your life?
+## The Written Analysis
 
-[^questions]: On this assignment sheet -- and in fact on any assignment
-sheet at college, I provide you with these questions to point you in
-the right direction, **not** to give you a list of requirements. You do
-not have to answer every question, and you should certainly not answer
-them in the same order. Prioritize producing a meaningful, connected piece
-of writing.
+After completing the digital composition, you will write a 1,000-word
+analysis of it. Analyzing your own work might sound like a strange
+activity, but it is helpful to clarify, in writing, the work and the
+choices that you put into your compositions. "To analyze," literally,
+means "to undo," "to unravel," or "to unpack." The written analysis,
+then, is an opportunity to unpack the thought process behind your
+digital composition.
 
-This assignment is worth **10% of your final grade**. The final draft is
-due **Tuesday, Feb 14**. An earlier draft should be submitted to Eli
-Review on **Monday, February 7**; you must also submit comment on your
-classmates' projects by **Wednesday, February 9**.
+Your analysis should identify the **medium** and **genre** you selected
+for your composition. It should identify the typical features of that
+medium and genre, and identify ways you implemented those features (or
+purposefully did not implement them, or failed to). Your analysis should
+also identify your digital composition's **purpose** and **audience**,
+explaining how you used those concepts to shape your project.
+
+## The Fine Print
+
+-   The first draft of the digital composition and analysis are due on
+    Eli Review by Monday, February 7.
+
+-   The final draft is due on Monday, February 14.
+
+-   To submit the digital composition, please simply include a link to
+    it at the beginning of your analysis draft.

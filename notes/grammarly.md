@@ -1,1 +1,0 @@
-Showing a grammarly ad would be a nice way to introduce what the writing classroom *isn't*.

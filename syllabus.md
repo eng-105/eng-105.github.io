@@ -1,10 +1,9 @@
 ---
 title: Writing & Rhetoric -- Syllabus
-
 ---
 
-This course meets TThu, 11:00a-12:20p. We meet in Talbert Hall on Tuesdays and
-Clemens 128 on Thursdays.
+This course meets TThu, 12:30-1:50. We meet in Clemens 128 on Tuesdays and
+Park 152 on Thursdays.
 
 Instructor: Sam Helgeson
 

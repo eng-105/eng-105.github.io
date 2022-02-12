@@ -16,3 +16,7 @@ header, #menu {
 aside {
     padding:0 1rem;
 }
+
+.bubble {
+    max-width: 18vh;
+}
